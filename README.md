@@ -8,9 +8,20 @@ I've been coding for a while now, and I've been making small projects for my per
 - C++
 - HTML/CSS/JS + Svelte
 
-## Projects I have worked/am working on
+## Projects I have worked on
 - Discord Bots
-- A website
+  - [8-Bit](https://github.com/Bimi05/8-Bit)
+  - [DVY Bot](https://github.com/Bimi05/DVY-Bot)
+- [CanSat in Greece](https://cansat.gr/)
+  - PhoenixRb (2022-2023): [CanSat](https://github.com/Bimi05/PhoenixRb-CanSat) | [Ground Station](https://github.com/Bimi05/PhoenixRb-Ground_Station)
+  - Asterius (2023-2024): [CanSat](https://github.com/Bimi05/Asterius-CanSat) | [Ground Station](https://github.com/Bimi05/Asterius-Ground_Station)
+
+## A word (more than one, but sure) about my projects
+- The discord bots were the first major coding projects I ever undertook. They were personal and kind of learning projects, you can view a little more in their respective repositories.
+
+- The [CanSat in Greece](https://cansat.gr/) projects were part of a competition I competed at with my high school, more specifically a country-specific branch of the [CanSat in Europe](https://www.esa.int/Education/CanSat) competition.
+
+In short: it involves designing and manufacturing a small satellite at the size of a soda can, to complete a scientific mission we as a team chose and believe holds value in today's society. If it isn't obvious, I was in charge of the software development department :)
 
 ## Some fun facts that you might not even want to read about
 - I first got introduced to coding when I was 11 years old, but I've never really made any big projects
